@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 const id = document.querySelector("#id"),
   psword = document.querySelector("#psword"),
@@ -32,3 +32,4 @@ function login(){
     console.error("로그인 중 에러 발생");
   });
 };
+
